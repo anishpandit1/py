@@ -1,1 +1,1 @@
-** File used for the third assignment of QPA **
+**File used for the third assignment of QPA**
